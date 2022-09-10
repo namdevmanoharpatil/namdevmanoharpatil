@@ -47,6 +47,16 @@
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namdevmanoharpatil&show_icons=true&locale=en&layout=compact" alt="namdevmanoharpatil" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=namdevmanoharpatil&show_icons=true&locale=en" alt="namdevmanoharpatil" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namdevmanoharpatil&show_icons=true&locale=en" alt="namdevmanoharpatil" /></p>
+
+<h3>When not coding :</h3>
+Playing Cricket <br>
+Writer | Reading Books <br>
+Gaming | Bike Riding <br>
+Travelling(Historical Places) <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namdevmanoharpatil&" alt="namdevmanoharpatil" /></p>
+<code>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
+</code>
+
