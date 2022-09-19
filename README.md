@@ -20,6 +20,7 @@ Passionate about coding and Self-motivated with a keen interest in building user
 
 *   🌍  I'm based in Kolhapur(Maharashtra), India.
 *   🖥️  See my portfolio at [MyPortfolio](https://namdevmanoharpatil.github.io/)
+*   📫  Also I communicate at[Linkedin](https://www.linkedin.com/in/namdev-patil-1054ab148/)
 - 🌱 I’m currently learning **Java,HTML,Nodejs,css**
 - 💬 Ask me about **Java**
 - 📫 How to reach me **namdevpatilm@gmail.com**
