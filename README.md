@@ -56,10 +56,11 @@ Passionate about coding and Self-motivated with a keen interest in building user
      
  <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namdevmanoharpatil&theme=gruvbox)](https://github.com/namdevmanoharpatil/github-readme-stats)  -->
 
-<h3>When not coding :</h3> Playing Cricket <span> Writer | Reading Books <span>Gaming | Bike Riding<span>Travelling(Historical Places) 
+  📈 <h3>When not coding :</h3>
+ Playing Cricket <span> Writer | Reading Books <span>Gaming | Bike Riding<span>Travelling(Historical Places) 
 
 <br>
-
+<br>
 
     
      📈 Activity Graph
