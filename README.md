@@ -43,7 +43,7 @@ Passionate about coding and Self-motivated with a keen interest in building user
 
 <p align="center"><img align="center" style="margin-left:300px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=namdevmanoharpatil&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="namdevmanoharpatil" /></p>               
         
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitagrawal22&show_icons=true&locale=en&theme=gruvbox" alt="namdevmanoharpatil" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namdevmanoharpatil&show_icons=true&locale=en&theme=gruvbox" alt="namdevmanoharpatil" /></p>
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namdevmanoharpatil&theme=gruvbox" alt="namdevmanoharpatil" /></p>
 
                
