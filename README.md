@@ -47,6 +47,7 @@ Passionate about coding and Self-motivated with a keen interest in building user
 <img width="100%" alt="leetcode contribution graph" src="https://user-images.githubusercontent.com/90475607/186266596-2db0e381-a505-44a2-b907-0be394da2b87.png">
 </div>
 <br /><br />
+ 
 ### <h2><i>💻 Databases</i></h2>
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
