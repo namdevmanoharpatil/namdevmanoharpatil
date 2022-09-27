@@ -5,11 +5,7 @@
 
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<img src="https://komarev.com/ghpvc/?username=namdevmanoharpatil&label=Profile%20views&color=0e75b6&style=flat" alt="namdevmanoharpatil" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namdevmanoharpatil" alt="namdevmanoharpatil" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/namdevp0812" target="blank"><img src="https://img.shields.io/twitter/follow/namdevp0812?logo=twitter&style=for-the-badge" alt="namdevp0812" /></a> </p>
 
 Hi 👋 My name is NAMDEV PATIL
 ==============================
@@ -24,6 +20,12 @@ Passionate about coding and Self-motivated with a keen interest in building user
 - 🌱 I’m currently learning **Java,HTML,Nodejs,css**
 - 💬 Ask me about **Java**
 - 📫 How to reach me **namdevpatilm@gmail.com**
+
+<img src="https://komarev.com/ghpvc/?username=namdevmanoharpatil&label=Profile%20views&color=0e75b6&style=flat" alt="namdevmanoharpatil" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namdevmanoharpatil" alt="namdevmanoharpatil" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/namdevp0812" target="blank"><img src="https://img.shields.io/twitter/follow/namdevp0812?logo=twitter&style=for-the-badge" alt="namdevp0812" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
