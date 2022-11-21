@@ -110,10 +110,8 @@ Passionate about coding and Self-motivated with a keen interest in building user
 <br /><br />
 <img width="100%" alt="leetcode contribution graph" src="https://user-images.githubusercontent.com/90475607/186266596-2db0e381-a505-44a2-b907-0be394da2b87.png">
 </div>
-<br /><br />
+
  
-### <h2><i>💻 Databases</i></h2>
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
  <br /><br /> 
    
@@ -147,4 +145,8 @@ Passionate about coding and Self-motivated with a keen interest in building user
     
   <a href="https://github.com/namdevmanoharpatil/github-readme-activity-graph"><img alt="Mohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=namdevmanoharpatil&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 
-<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img align="center" src="https://raw.githubusercontent.com/namdevmanoharpatil/abhishek-0713/main/profile-3d-contrib/profile-night-green.svg" alt="coder_abhi0713" height="550" width="100%" /> 
+
+ <!-- ![GitHub metrics](https://metrics.lecoq.io/abhishek-0713) -->
+
+<img width=100% title="Coder Abhi." alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
