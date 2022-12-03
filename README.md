@@ -138,9 +138,9 @@ Passionate about coding and Self-motivated with a keen interest in building user
     
      📈 Activity Graph
     
-  <a href="https://github.com/namdevmanoharpatil/github-readme-activity-graph"><img alt="Mohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=namdevmanoharpatil&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <a href="https://github.com/namdevmanoharpatil/github-readme-activity-graph"><img alt="Namdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=namdevmanoharpatil&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 
-<!-- <img align="center" src="https://raw.githubusercontent.com/namdevmanoharpatil/namdevmanoharpatil/main/profile-3d-contrib/profile-night-green.svg" alt="coder_namdevmanoharpatil" height="550" width="100%" />  -->
+<img align="center" src="https://raw.githubusercontent.com/namdevmanoharpatil/namdevmanoharpatil/main/profile-3d-contrib/profile-night-green.svg" alt="coder_namdevmanoharpatil" height="550" width="100%" /> 
 
 
 <img width=100% title="Coder Abhi." alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
