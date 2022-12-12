@@ -3,7 +3,7 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://rishavchanda.io)
 
 
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Java-Backend developer from India</h3>
 
 
 
