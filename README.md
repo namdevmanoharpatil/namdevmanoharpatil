@@ -14,12 +14,11 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 *   🌍  I'm based in Kolhapur(Maharashtra), India.  
+*  🌱🌱 I’m currently learning Springboot,Hibernate, Spring Security.
 *   👨‍💻 See my portfolio at [MyPortfolio](https://namdevmanoharpatil.github.io/)
 *   💻 Checkout my Resume [Namdev_Patil_Resume](https://drive.google.com/file/d/1-Vb7m3sG2SA9bHXXVkC30umX6JIVMc9X/view?usp=sharing)
-*   🌱🌱 I’m currently learning Springboot,Hibernate, Spring Security.
+*   📫 How to reach me **namdevpatilm@gmail.com**
 *   📫  Also I communicate at[Linkedin](https://www.linkedin.com/in/namdev-patil-1054ab148/)
-
-- 📫 How to reach me **namdevpatilm@gmail.com**
 
 <img src="https://komarev.com/ghpvc/?username=namdevmanoharpatil&label=Profile%20views&color=0e75b6&style=flat" alt="namdevmanoharpatil" /> </p>
 
