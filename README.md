@@ -13,11 +13,12 @@ Hi 👋 My name is NAMDEV PATIL
 A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-*   🌍  I'm based in Kolhapur(Maharashtra), India.
-*   🖥️  See my portfolio at [MyPortfolio](https://namdevmanoharpatil.github.io/)
+*   🌍  I'm based in Kolhapur(Maharashtra), India.  
+*   👨‍💻 See my portfolio at [MyPortfolio](https://namdevmanoharpatil.github.io/)
+*   💻 Checkout my Resume [Namdev_Patil_Resume](https://drive.google.com/file/d/1-Vb7m3sG2SA9bHXXVkC30umX6JIVMc9X/view?usp=sharing)
+*   🌱🌱 I’m currently learning Springboot,Hibernate, Spring Security.
 *   📫  Also I communicate at[Linkedin](https://www.linkedin.com/in/namdev-patil-1054ab148/)
-- 🌱 I’m currently learning **Java,HTML,Nodejs,css**
-- 💬 Ask me about **Java**
+
 - 📫 How to reach me **namdevpatilm@gmail.com**
 
 <img src="https://komarev.com/ghpvc/?username=namdevmanoharpatil&label=Profile%20views&color=0e75b6&style=flat" alt="namdevmanoharpatil" /> </p>
