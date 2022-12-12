@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=BB2562&amp;size=20&amp;lines=Hey!+It's+Namdev+Patil!;Learning+Java+Back-end+Development...;" style="width: 100%;">
 
-[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://rishavchanda.io)
+[![MasterHead](https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966)]
 
 
 <h3 align="center">A passionate Java-Backend developer from India</h3>
