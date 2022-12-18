@@ -28,7 +28,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 </ul>
  
 *   👨‍💻 See my portfolio at [MyPortfolio](https://namdevmanoharpatil.github.io/)
-*   💻 Checkout my Resume [Namdev_Patil_Resume](https://drive.google.com/file/d/1-Vb7m3sG2SA9bHXXVkC30umX6JIVMc9X/view?usp=sharing)
+*   💻 Checkout my Resume [Namdev_Patil_Resume](https://drive.google.com/file/d/1XUZ8aUHtfGIQ41U5lF7d2oCE-JITwfIW/view?usp=sharing)
 *   📫 How to reach me **namdevpatilm@gmail.com**
 *   📫  Also I communicate at[Linkedin](https://www.linkedin.com/in/namdev-patil-1054ab148/)
 
