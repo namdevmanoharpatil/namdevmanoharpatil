@@ -125,12 +125,14 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
  
    <!--  dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula    -->
 
-<p align="center"><img align="center" style="" src="https://github-readme-stats.vercel.app/api/top-langs?username=namdevmanoharpatil&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="namdevmanoharpatil" /></p>               
+<!-- <p align="center"><img align="center" style="" src="https://github-readme-stats.vercel.app/api/top-langs?username=namdevmanoharpatil&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="namdevmanoharpatil" /></p>                -->
         
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namdevmanoharpatil&show_icons=true&locale=en&theme=gruvbox" alt="namdevmanoharpatil" /></p>
+<!-- <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namdevmanoharpatil&show_icons=true&locale=en&theme=gruvbox" alt="namdevmanoharpatil" /></p> -->
  
-<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namdevmanoharpatil&theme=gruvbox" alt="namdevmanoharpatil" /></p>
-
+<!-- <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namdevmanoharpatil&theme=gruvbox" alt="namdevmanoharpatil" /></p>
+ -->
+ | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=namdevmanoharpatil&theme=dark&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=namdevmanoharpatil&theme=dark&border_radius=4)](https://git.io/streak-stats) |
+| :---: | :---: |
                
              
   <!--  [    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namdevmanoharpatil&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=namdevmanoharpatil&theme=gruvbox")  -->
